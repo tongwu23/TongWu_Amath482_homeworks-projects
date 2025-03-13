@@ -1,19 +1,5 @@
 # TongWu_Amath482_homeworks-projects
-# 👋 Hi, I'm Tong Wu!
-
-🎓 **Aspiring Quant Strategist | Data Science Enthusiast | Machine Learning & Financial Modeling**  
-
-I'm passionate about **data analytics and machine learning**. Currently, I'm working on **time-series analysis, Monte Carlo simulations, and risk modeling** to improve financial forecasting. My goal is to leverage **machine learning and statistical techniques** to develop cutting-edge financial models.
-
 ---
-
-## 🔬 **Academic Background**
-- 🎓 Studying at **USC** with a focus on **financial data science & quantitative modeling**.
-- 📊 Strong background in **statistical modeling, risk analytics, and financial engineering**.
-- 🏆 Aspiring to transition from **Quantitative Data Analyst** to **Junior Strategy Analyst**.
-
----
-
 ## 🛠️ **Skills & Technologies**
 - **Programming:** Python (NumPy, Pandas, Scikit-Learn), R, MATLAB  
 - **Machine Learning:** PCA, SVM, Ridge Regression, KNN, Neural Networks  
@@ -40,10 +26,3 @@ I'm passionate about **data analytics and machine learning**. Currently, I'm wor
 - Achieved **98.4% accuracy using SVM** for handwritten digit classification.
 
 ---
-
-## 📫 **Connect with Me**
-📧 Email: your.email@example.com  
-💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
-
-🚀 **Let’s build something great together!**
