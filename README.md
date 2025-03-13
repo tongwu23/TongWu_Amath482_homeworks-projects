@@ -8,17 +8,17 @@ This repository contains my coursework and projects for **AMATH 482**, focusing 
 
 ## 📂 Repository Contents
 ### 🔹 **Homework Assignments**
-- **[HW1: Fourier Transform & Gaussian Filtering](./Amath482_HW1.pdf)**  
+- **HW1: Fourier Transform & Gaussian Filtering**  
   - Applied **Fourier Transforms** to detect submarine signals from noisy acoustic data.
   - Used **Gaussian Filters** to enhance signal processing.
   - Identified the **dominant frequency** of the submarine and visualized its path.
 
-- **[HW2: Principal Component Analysis (PCA) & Motion Classification](./Amath482HW2.pdf)**  
+- **HW2: Principal Component Analysis (PCA) & Motion Classification**  
   - Used **Singular Value Decomposition (SVD)** and **PCA** to analyze humanoid robot motion.
   - Reduced high-dimensional movement data into **2D & 3D visualizations**.
   - Designed a **real-time movement classification** algorithm.
 
-- **[HW3: MNIST Digit Classification with Machine Learning](./Amath482HW3.pdf)**  
+- **HW3: MNIST Digit Classification with Machine Learning**  
   - Applied **PCA** to reduce dimensionality while preserving **85% variance**.
   - Trained multiple classifiers (**Ridge Regression, KNN, and SVM**) for digit recognition.
   - Achieved **98.41% accuracy** using **Support Vector Machines (SVM)**.
