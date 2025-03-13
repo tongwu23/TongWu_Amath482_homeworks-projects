@@ -2,7 +2,7 @@
 # 👋 Welcome to My Repository!
 
 ## 📌 TongWu_Amath482_homeworks-projects
-This repository contains my coursework and projects for **AMATH 482**, focusing on **scientific computing, data analysis, and machine learning techniques**.
+This repository contains my coursework and projects for **AMATH 482**, focusing on **signal processing, data analysis, and machine learning techniques**.
 
 ---
 
