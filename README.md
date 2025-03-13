@@ -41,6 +41,9 @@ This repository contains my coursework and projects for **AMATH 482**, focusing 
 ---
 
 ### 📫 **Let's Connect!**
-💡 Feel free to explore the repo, open an issue, or reach out if you have any questions! 🚀  
+
+💡 Feel free to explore the repo, open an issue, or reach out if you have any questions! 🚀 
+
 Email: tongwu0423@gmail.com
+
 ---
