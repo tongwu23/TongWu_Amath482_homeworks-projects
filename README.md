@@ -1,28 +1,46 @@
 # TongWu_Amath482_homeworks-projects
----
-## 🛠️ **Skills & Technologies**
-- **Programming:** Python (NumPy, Pandas, Scikit-Learn), R, MATLAB  
-- **Machine Learning:** PCA, SVM, Ridge Regression, KNN, Neural Networks  
-- **Financial Modeling:** Time-Series Analysis, Monte Carlo Simulations, Portfolio Optimization  
-- **Big Data & Analytics:** SQL, Tableau, Power BI  
-- **Quant Tools:** Bloomberg Terminal, QuantConnect, TensorFlow  
+# 👋 Welcome to My Repository!
+
+## 📌 TongWu_Amath482_homeworks-projects
+This repository contains my coursework and projects for **AMATH 482**, focusing on **scientific computing, data analysis, and machine learning techniques**.
 
 ---
 
-## 🔍 **Recent Projects**
-### 📌 **Submarine Tracking with Fourier Transform**
-- Applied **FFT (Fast Fourier Transform)** to detect submarine acoustic frequencies.
-- Used a **Gaussian Filter** to denoise and track movement.
-- Implemented **3D visualizations** to map the submarine’s path.  
+## 📂 Repository Contents
+### 🔹 **Homework Assignments**
+- **[HW1: Fourier Transform & Gaussian Filtering](./Amath482_HW1.pdf)**  
+  - Applied **Fourier Transforms** to detect submarine signals from noisy acoustic data.
+  - Used **Gaussian Filters** to enhance signal processing.
+  - Identified the **dominant frequency** of the submarine and visualized its path.
 
-### 🤖 **Humanoid Robot Motion Analysis**
-- Used **Principal Component Analysis (PCA)** to analyze robot joint movements.
-- Implemented a **machine learning classifier** to predict movement in real time.
-- Achieved **100% accuracy** in predicting robot motion using optimal PCA modes.
+- **[HW2: Principal Component Analysis (PCA) & Motion Classification](./Amath482HW2.pdf)**  
+  - Used **Singular Value Decomposition (SVD)** and **PCA** to analyze humanoid robot motion.
+  - Reduced high-dimensional movement data into **2D & 3D visualizations**.
+  - Designed a **real-time movement classification** algorithm.
 
-### 🔢 **MNIST Digit Classification**
-- Applied **PCA to reduce dimensionality** while retaining 85% variance.
-- Compared **Ridge Classifier, KNN, and SVM** for digit recognition.
-- Achieved **98.4% accuracy using SVM** for handwritten digit classification.
+- **[HW3: MNIST Digit Classification with Machine Learning](./Amath482HW3.pdf)**  
+  - Applied **PCA** to reduce dimensionality while preserving **85% variance**.
+  - Trained multiple classifiers (**Ridge Regression, KNN, and SVM**) for digit recognition.
+  - Achieved **98.41% accuracy** using **Support Vector Machines (SVM)**.
 
+---
+
+## 🛠 **Technologies & Methods Used**
+- **Mathematical Computing**: Fourier Transforms, PCA, SVD  
+- **Signal Processing**: Gaussian Filtering, Frequency Domain Analysis  
+- **Machine Learning**: Ridge Regression, KNN, SVM  
+- **Programming & Libraries**: Python, NumPy, SciPy, scikit-learn, Matplotlib  
+
+---
+
+## 📈 **Key Takeaways**
+🔹 **Applied mathematical techniques to real-world scientific problems.**  
+🔹 **Developed robust machine learning models for motion and image classification.**  
+🔹 **Enhanced understanding of dimensionality reduction and signal processing.**  
+
+---
+
+### 📫 **Let's Connect!**
+💡 Feel free to explore the repo, open an issue, or reach out if you have any questions! 🚀  
+Email: tongwu0423@gmail.com
 ---
